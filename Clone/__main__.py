@@ -1,4 +1,4 @@
-import pyrogram 
+from pyrogram import Client
 
 # Set up bot configurations
 API_ID = 25629197
